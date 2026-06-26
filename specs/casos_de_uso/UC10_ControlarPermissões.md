@@ -1,4 +1,4 @@
-# Caso de Uso: UC0
+# Caso de Uso: UC10 - Controlar Permissões
 
 **Objetivo:** Definir permissões de acesso.
 
