@@ -48,7 +48,7 @@
 ### Fluxos de Exceção:
 #### E1 - Validação De Campos
 
-1. Todas as informações são obrigatórias, exceto o campo
+1. Todas as informações são obrigatórias.
 
 #### E2 - Plano Já Cadastrado
 
