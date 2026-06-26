@@ -1,4 +1,4 @@
-# Caso de Uso: UC13 - Consultar Histório Animal
+# Caso de Uso: UC14 - Consultar Histório Animal
 
 **Objetivo:** Consultar histórico de vacinas, consultas, exames, datas dos atendimento.
 
